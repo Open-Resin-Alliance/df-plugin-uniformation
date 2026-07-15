@@ -2,6 +2,12 @@
 
 DragonFruit Plugin for UniFormation Printers
 
+> **Asset source notice**
+>
+> Printer preview assets in this repository were sourced from official
+> UniFormation materials. We are currently seeking explicit permission
+> from UniFormation for their use and distribution.
+
 Profile-only complex plugin: ships printer presets targeting the `.ctb`
 output format provided by the `ctb` plugin. No encoder, network, or
 runtime code of its own.
