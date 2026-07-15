@@ -5,6 +5,7 @@
     "manufacturer": "UniFormation",
     "family": "GKtwo",
     "name": "GKtwo",
+    "imageAssetPath": "./assets/gktwo-series/gktwo.png",
     "antiAliasing": true,
     "hasCamera": false,
     "networkSupport": null,
