@@ -1,0 +1,31 @@
+[
+  {
+    "presetId": "uniformation-gktwo-ctb",
+    "profileVersion": 1,
+    "manufacturer": "UniFormation",
+    "family": "GKtwo",
+    "name": "GKtwo",
+    "antiAliasing": true,
+    "hasCamera": false,
+    "networkSupport": null,
+    "networkFilter": "GKtwo",
+    "buildVolumeMm": {
+      "width": null,
+      "depth": null,
+      "height": 245
+    },
+    "pixelSize": {
+      "x": 29.7,
+      "y": 29.7
+    },
+    "display": {
+      "resolutionX": 7680,
+      "resolutionY": 4320,
+      "outputFormat": ".ctb",
+      "formatVersion": "v4enc",
+      "settingsMode": "twostage",
+      "mirrorX": true,
+      "mirrorY": false
+    }
+  }
+]

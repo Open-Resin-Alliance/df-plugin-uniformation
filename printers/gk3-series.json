@@ -1,0 +1,60 @@
+[
+  {
+    "presetId": "uniformation-gk3-pro-ctb",
+    "profileVersion": 1,
+    "manufacturer": "UniFormation",
+    "family": "GK3",
+    "name": "GK3 Pro",
+    "antiAliasing": true,
+    "hasCamera": false,
+    "networkSupport": null,
+    "networkFilter": "GK3 Pro",
+    "buildVolumeMm": {
+      "width": null,
+      "depth": null,
+      "height": 240
+    },
+    "pixelSize": {
+      "x": 14,
+      "y": 19
+    },
+    "display": {
+      "resolutionX": 15120,
+      "resolutionY": 6230,
+      "outputFormat": ".ctb",
+      "formatVersion": "v4enc",
+      "settingsMode": "twostage",
+      "mirrorX": true,
+      "mirrorY": false
+    }
+  },
+  {
+    "presetId": "uniformation-gk3-ultra-ctb",
+    "profileVersion": 1,
+    "manufacturer": "UniFormation",
+    "family": "GK3",
+    "name": "GK3 Ultra",
+    "antiAliasing": true,
+    "hasCamera": false,
+    "networkSupport": null,
+    "networkFilter": "GK3 Ultra",
+    "buildVolumeMm": {
+      "width": null,
+      "depth": null,
+      "height": 300
+    },
+    "pixelSize": {
+      "x": 20,
+      "y": 26
+    },
+    "display": {
+      "resolutionX": 15120,
+      "resolutionY": 6230,
+      "outputFormat": ".ctb",
+      "formatVersion": "v4enc",
+      "settingsMode": "twostage",
+      "mirrorX": true,
+      "mirrorY": false
+    }
+  }
+]
