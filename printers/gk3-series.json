@@ -1,5 +1,34 @@
 [
   {
+    "presetId": "uniformation-gk3-ctb",
+    "profileVersion": 1,
+    "manufacturer": "UniFormation",
+    "family": "GK3",
+    "name": "GK3",
+    "antiAliasing": true,
+    "hasCamera": false,
+    "networkSupport": null,
+    "networkFilter": "GK3",
+    "buildVolumeMm": {
+      "width": null,
+      "depth": null,
+      "height": 240
+    },
+    "pixelSize": {
+      "x": 14,
+      "y": 19
+    },
+    "display": {
+      "resolutionX": 15120,
+      "resolutionY": 6230,
+      "outputFormat": ".ctb",
+      "formatVersion": "v5enc",
+      "settingsMode": "twostage",
+      "mirrorX": true,
+      "mirrorY": false
+    }
+  },
+  {
     "presetId": "uniformation-gk3-pro-ctb",
     "profileVersion": 1,
     "manufacturer": "UniFormation",

@@ -11,6 +11,7 @@ runtime code of its own.
 | Preset | Resolution | Pixel size (µm) | Z height |
 | --- | --- | --- | --- |
 | GKtwo | 7680 × 4320 | 29.7 × 29.7 | 245 mm |
+| GK3 | 15120 × 6230 | 14 × 19 | 240 mm |
 | GK3 Pro | 15120 × 6230 | 14 × 19 | 240 mm |
 | GK3 Ultra | 15120 × 6230 | 20 × 26 | 300 mm |
 
