@@ -22,7 +22,7 @@
       "resolutionX": 7680,
       "resolutionY": 4320,
       "outputFormat": ".ctb",
-      "formatVersion": "v4enc",
+      "formatVersion": "v5enc",
       "settingsMode": "twostage",
       "mirrorX": true,
       "mirrorY": false

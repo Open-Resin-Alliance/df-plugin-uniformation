@@ -18,5 +18,5 @@ runtime code of its own.
 >
 > UniFormation firmware is reported to reject plain CTB (v1–v4) and only
 > accept encrypted CTB (see [UVtools discussion #846](https://github.com/sn4k3/UVtools/discussions/846)).
-> Presets therefore default to `formatVersion: "v4enc"`. This has not yet
+> Presets therefore default to `formatVersion: "v5enc"`. This has not yet
 > been verified on hardware — adjust after on-printer testing.

@@ -22,7 +22,7 @@
       "resolutionX": 15120,
       "resolutionY": 6230,
       "outputFormat": ".ctb",
-      "formatVersion": "v4enc",
+      "formatVersion": "v5enc",
       "settingsMode": "twostage",
       "mirrorX": true,
       "mirrorY": false
@@ -51,7 +51,7 @@
       "resolutionX": 15120,
       "resolutionY": 6230,
       "outputFormat": ".ctb",
-      "formatVersion": "v4enc",
+      "formatVersion": "v5enc",
       "settingsMode": "twostage",
       "mirrorX": true,
       "mirrorY": false
