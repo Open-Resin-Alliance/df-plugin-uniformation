@@ -9,7 +9,7 @@ function resolvePresetImagePath(imageAssetPath: unknown): string | undefined {
   return `/plugins/uniformation/printers/${normalized}`;
 }
 
-function mapPresets(presets: any[]) {
+function mapPresets(presets: Record<string, unknown>[]) {
   return presets.map((preset) => ({
     ...preset,
     imageAssetPath: resolvePresetImagePath(preset.imageAssetPath),
@@ -25,8 +25,8 @@ export const UNIFORMATION_PLUGIN_MANIFEST = {
   author: 'Open Resin Alliance',
   homepage: 'https://github.com/Open-Resin-Alliance/df-plugin-uniformation',
   printerPresets: [
-    ...mapPresets(uniformationGktwoPrinters as any[]),
-    ...mapPresets(uniformationGk3Printers as any[]),
+    ...mapPresets(uniformationGktwoPrinters as Record<string, unknown>[]),
+    ...mapPresets(uniformationGk3Printers as Record<string, unknown>[]),
   ],
   materialTemplates: [],
 };
